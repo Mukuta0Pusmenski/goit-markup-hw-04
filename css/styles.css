@@ -382,11 +382,11 @@ a::after{
     background-color: #404bbf;
 }
 
-.social-networks-comtent:hover{
+.social-networks-comtent:focus{
     background-color: #404bbf;
 }
 
-.social-networks-comtent-svg{
+.social-networks-svg{
     fill: #f4f4fd;
 }
 
