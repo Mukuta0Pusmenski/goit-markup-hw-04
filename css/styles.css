@@ -480,6 +480,12 @@ a::after{
 
 /* -=- */
 /* footer */
+
+.footer-container{
+    display: flex;
+    align-items: baseline;
+}
+
 .footer {
     background-color: #2e2f42;
     padding: 100px 0;
@@ -506,6 +512,19 @@ a::after{
 
 .footer-ikon-span {
     color: #f4f4fd;
+}
+
+.container{
+    margin-right: 120px;
+}
+
+.social-network-paragraf{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#FFFFFF;
+    margin-bottom: 16px;
 }
 
 /* -=- */
