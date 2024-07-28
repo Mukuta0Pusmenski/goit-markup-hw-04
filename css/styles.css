@@ -491,6 +491,10 @@ a::after{
     padding: 100px 0;
 }
 
+.footer-content{
+    margin-right: 120px;
+}
+
 .footer-ikon {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -514,9 +518,9 @@ a::after{
     color: #f4f4fd;
 }
 
-.container{
-    margin-right: 120px;
-}
+.social-network-footer{}
+
+.container{}
 
 .social-network-paragraf{
     font-weight: 500;
