@@ -481,7 +481,7 @@ a::after{
 /* -=- */
 /* footer */
 
-.footer-container{
+.footer-wrapper{
     display: flex;
     align-items: baseline;
 }
