@@ -79,10 +79,11 @@ a::after{
 
 }
 
-.dop-header-logo{
-    position: relative;
-    color: #404bbf;
+.current{
+    color: #404BBF;
 }
+
+
 
 .header-logo {
     font-family: "Raleway", sans-serif;
@@ -92,6 +93,8 @@ a::after{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
+    position: relative;
+    padding: 24px 0;
 }
 
 .header-logo-color {
