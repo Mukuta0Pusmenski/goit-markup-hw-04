@@ -374,6 +374,10 @@ a::after{
     height: 40px;
 }
 
+.social-networks-comtent:focus {
+    background-color: #404bbf;
+}
+
 .social-networks-comtent{
     width: 100%;
     height: 100%;
@@ -385,10 +389,6 @@ a::after{
 }
 
 .social-networks-comtent:hover{
-    background-color: #404bbf;
-}
-
-.social-networks-comtent:focus {
     background-color: #404bbf;
 }
 
