@@ -569,11 +569,11 @@ a::after{
     justify-content: center;
 }
 
-.social-network-href:hover{
+.social-network-point-a:hover{
     background-color: #31d0aa;
 }
 
-.social-network-href:focus{
+.social-network-point-a:focus{
     background-color: #31d0aa;
 }
 
