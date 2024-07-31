@@ -192,6 +192,7 @@ a::after{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin: 0 auto;
 }
 
 .information {
