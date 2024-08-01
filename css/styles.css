@@ -41,7 +41,7 @@ ul {
     margin: 0;
 }
 
-a::after{
+.current::after{
     content: '';
     width: 100%;
     position: absolute;
