@@ -93,12 +93,25 @@ a::after{
     position: relative;
 }
 
+.header-logo.current::before {
+    content: "";
+    position: relative;
+    left: 0;
+    bottom: -1px;
+
+    width: 100%;
+    height: 4px;
+    border-radius: 2px;
+
+    background-color: #404bbf;
+} 
+
 .header-logo.current:hover {
     color:#404bbf;
 }
 
 .header-logo.current:focus {
-    color: ;
+    color: #404bbf;
 }
 
 .header-logo-color {
