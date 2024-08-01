@@ -89,7 +89,7 @@ a::after{
 
 .header-navigation-content.current::before {
     content: "";
-    position: relative;
+    position: absolute;
     left: 0;
     bottom: -1px;
     width: 100%;
